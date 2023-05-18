@@ -1,0 +1,14 @@
+C:\Users\mari-\source\repos\VideojuegosCRUD\CRUD.DAL\bin\Debug\net6.0\CRUD.DAL.deps.json
+C:\Users\mari-\source\repos\VideojuegosCRUD\CRUD.DAL\bin\Debug\net6.0\CRUD.DAL.dll
+C:\Users\mari-\source\repos\VideojuegosCRUD\CRUD.DAL\bin\Debug\net6.0\CRUD.DAL.pdb
+C:\Users\mari-\source\repos\VideojuegosCRUD\CRUD.DAL\obj\Debug\net6.0\CRUD.DAL.csproj.AssemblyReference.cache
+C:\Users\mari-\source\repos\VideojuegosCRUD\CRUD.DAL\obj\Debug\net6.0\CRUD.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mari-\source\repos\VideojuegosCRUD\CRUD.DAL\obj\Debug\net6.0\CRUD.DAL.AssemblyInfoInputs.cache
+C:\Users\mari-\source\repos\VideojuegosCRUD\CRUD.DAL\obj\Debug\net6.0\CRUD.DAL.AssemblyInfo.cs
+C:\Users\mari-\source\repos\VideojuegosCRUD\CRUD.DAL\obj\Debug\net6.0\CRUD.DAL.csproj.CoreCompileInputs.cache
+C:\Users\mari-\source\repos\VideojuegosCRUD\CRUD.DAL\obj\Debug\net6.0\CRUD.DAL.dll
+C:\Users\mari-\source\repos\VideojuegosCRUD\CRUD.DAL\obj\Debug\net6.0\refint\CRUD.DAL.dll
+C:\Users\mari-\source\repos\VideojuegosCRUD\CRUD.DAL\obj\Debug\net6.0\CRUD.DAL.pdb
+C:\Users\mari-\source\repos\VideojuegosCRUD\CRUD.DAL\obj\Debug\net6.0\ref\CRUD.DAL.dll
+C:\Users\mari-\source\repos\VideojuegosCRUD\CRUD.DAL\bin\Debug\net6.0\CRUD.DAL.runtimeconfig.json
+C:\Users\mari-\source\repos\VideojuegosCRUD\CRUD.DAL\obj\Debug\net6.0\CRUD.DAL.genruntimeconfig.cache
